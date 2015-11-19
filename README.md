@@ -12,4 +12,4 @@ Freedom.Store is a business, a community and a new conversation about the nature
 - [Events](https://digitalfreedom.io/pad/p/Freedom.Store.Events)
 - [Culture and Policies](https://digitalfreedom.io/pad/p/freedom.store)
 - [People](https://digitalfreedom.io/pad/p/Freedom.Store.People)
-- [Parternships](https://digitalfreedom.io/pad/p/Freedom.Store.Parternships)
+- [Partnerships](https://digitalfreedom.io/pad/p/Freedom.Store.Partnerships)
