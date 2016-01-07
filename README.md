@@ -13,3 +13,4 @@ Freedom.Store is a business, a community and a new conversation about the nature
 - [Culture and Policies](https://digitalfreedom.io/pad/p/freedom.store)
 - [People](https://digitalfreedom.io/pad/p/Freedom.Store.People)
 - [Partnerships](https://digitalfreedom.io/pad/p/Freedom.Store.Partnerships)
+- [ToDo](https://digitalfreedom.io/pad/p/Freedom.Store.ToDo)
