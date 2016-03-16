@@ -1,6 +1,6 @@
-# Freedom.Store
+# Free Open Store
 
-Freedom.Store is a business, a community and a new conversation about the nature of freedom and capitalism- specifically in relation to digital products, tools and services.
+Free Open Store is a community, a conversation, and a business (in that order) about the nature of freedom, data, open source, capitalism, and technology!
 
 *this is a massive work in progress, feel free to participate / contribute however you best see fit*
 
