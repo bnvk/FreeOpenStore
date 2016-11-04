@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1052.3622"
+   height="744.09448"
+   viewBox="0 0 1052.3622 744.09448"
+   id="svg6823"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="Site.svg">
+  <defs
+     id="defs6825">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient7392">
+      <stop
+         style="stop-color:#ff2121;stop-opacity:1"
+         offset="0"
+         id="stop7394" />
+      <stop
+         style="stop-color:#f3a337;stop-opacity:1"
+         offset="1"
+         id="stop7396" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7392"
+       id="linearGradient7402"
+       x1="288.57791"
+       y1="442.15637"
+       x2="713.13989"
+       y2="716.15198"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.2011946,0,0,0.87977097,-107.90499,57.205253)" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.1642403"
+     inkscape:cx="523.96515"
+     inkscape:cy="379.45116"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1692"
+     inkscape:window-height="1003"
+     inkscape:window-x="202"
+     inkscape:window-y="73"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata6828">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-308.26772)">
+    <rect
+       style="opacity:1;fill:url(#linearGradient7402);fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.20000005;stroke-opacity:1"
+       id="rect7371"
+       width="656.73431"
+       height="248.79361"
+       x="218.19757"
+       y="439.01425" />
+    <text
+       xml:space="preserve"
+       style="font-size:80px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif"
+       x="541.39734"
+       y="560.26892"
+       id="text7423"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan7425"
+         x="541.39734"
+         y="560.26892"
+         style="font-size:80px;font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Open Sans;-inkscape-font-specification:Open Sans Ultra-Bold">FREE &amp; OPEN</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:30px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="537"
+       y="627.36218"
+       id="text7427"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan7429"
+         x="537"
+         y="627.36218"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:40px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Ultra-Bold';fill:#000000;fill-opacity:1;">STORE</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:30px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#111111;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="538"
+       y="742.36218"
+       id="text7431"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan7433"
+         x="541.18359"
+         y="742.36218"
+         style="font-size:17.5px;fill:#111111;fill-opacity:1">a conversation about open source, culture, freedom, and commerce </tspan></text>
+    <rect
+       style="opacity:1;fill:#26efd3;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.20000005;stroke-opacity:1"
+       id="rect7435"
+       width="202"
+       height="54"
+       x="448"
+       y="780.36218" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:30px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="551"
+       y="815.79968"
+       id="text7437"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan7439"
+         x="551"
+         y="815.79968"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.5px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#ffffff;fill-opacity:1;">Follow Us</tspan></text>
+    <rect
+       style="opacity:1;fill:#62d054;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.20000005;stroke-opacity:1"
+       id="rect7435-4"
+       width="202"
+       height="54"
+       x="677"
+       y="780.36218" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:30px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="780"
+       y="815.20691"
+       id="text7437-2"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan7439-2"
+         x="780"
+         y="815.20691"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.5px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#ffffff;fill-opacity:1">Participate</tspan></text>
+    <rect
+       style="opacity:1;fill:#4362f7;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.20000005;stroke-opacity:1"
+       id="rect7435-1"
+       width="202"
+       height="54"
+       x="220"
+       y="780.36218" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:30px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="323"
+       y="815.79968"
+       id="text7437-5"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan7439-3"
+         x="323"
+         y="815.79968"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.5px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#ffffff;fill-opacity:1;">About</tspan></text>
+  </g>
+</svg>
