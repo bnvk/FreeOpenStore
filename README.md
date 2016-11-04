@@ -13,3 +13,4 @@ Free Open Store is a business, a community and a new conversation about the natu
 - [Culture and Policies](culture-and-policies.md)
 - [People](people.md)
 - [Partnerships](https://digitalfreedom.io/pad/p/Freedom.Store.Partnerships)
+- [ToDo](https://digitalfreedom.io/pad/p/Freedom.Store.ToDo)
